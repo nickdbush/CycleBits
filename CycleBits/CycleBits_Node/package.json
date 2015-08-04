@@ -1,0 +1,23 @@
+{
+  "name": "CycleBits_Node",
+  "version": "1.0.0",
+  "description": "Client software for internet limiting exercise bike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdbush/CycleBits_Node.git"
+  },
+  "author": "Nicholas Bush <nickdbush@hotmail.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickdbush/CycleBits_Node/issues"
+  },
+  "homepage": "https://github.com/nickdbush/CycleBits_Node",
+  "dependencies": {
+    "serialport": "^1.7.4",
+    "shelljs": "^0.5.1"
+  }
+}
